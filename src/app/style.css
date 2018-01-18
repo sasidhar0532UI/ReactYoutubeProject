@@ -1,0 +1,29 @@
+.search-bar{
+    height: 50px;
+    padding-top: 7px;
+    padding-left: 200px;
+}
+.form-control{
+    width: 65%;
+    padding-top: 2px;
+}
+.video-detail {
+    width: 55%;
+    margin-left: 75px;
+}
+.list-group{
+    padding-right: 10px;
+   
+}
+.list-group-item{
+    border: 0px;
+}
+.media-object {
+    display: block;
+    width: 160px;
+    height:100px;
+}
+.details{
+    padding-top: 15px;
+    text-transform: uppercase;
+}
